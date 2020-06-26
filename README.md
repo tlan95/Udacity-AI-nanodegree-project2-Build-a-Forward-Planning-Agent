@@ -13,7 +13,7 @@ Read all of the instructions below and the project rubric [here](https://review.
 
 See the [Project Enhancements](#optional-project-enhancements) section at the end for additional notes about limitations of the code in this exercise.
 
-![Progression air cargo search](images/Progression.PNG)
+![Progression air cargo search](images/Progression.png)
 
 
 ## Getting Started (Workspaces)
