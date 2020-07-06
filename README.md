@@ -95,6 +95,7 @@ Use your results to answer the following questions:
 
 - Which algorithm or algorithms would be most appropriate for planning problems where it is important to find only optimal plans?
 
+**My [report](report.pdf) is shown in the same directory.**
 
 ## (Optional) Project Enhancements
 
